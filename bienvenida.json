@@ -1,0 +1,7 @@
+{
+    "texto": "👋 • Bienvenido/a {mention} a **{server}**\n\n🌊 • Lee las normas y entra al server a disfrutar\n\n💎 • IP: Próximamente",
+  "embed": "**👋 • Bienvenido a TideCraft Network**\n\nBuenas {mention}.\n\nGracias por unirte. Tu ID es `{userId}` y eres el miembro **#{memberCount}**.",
+  "color": "0071ba",
+  "rol_id": 1527263267683172493,
+  "canal_id": 1527423261552410655
+}
